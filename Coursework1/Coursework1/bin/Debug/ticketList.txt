@@ -1,0 +1,1 @@
+[{"TicketID":1,"AgeGroup":"Child","Group":"Individual","Day":"Weekday","Duration":"1 Hour","Price":100.0},{"TicketID":2,"AgeGroup":"Adult","Group":"Individual","Day":"Weekend","Duration":"30 Minutes","Price":200.0}]
